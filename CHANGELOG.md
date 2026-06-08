@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-07)
+## Unreleased (2026-06-08)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`c0a017b`](https://github.com/stdlib-js/stdlib/commit/c0a017ba7b2f18c67be643c75a39dbf848772944) - **docs:** add backticks in `blas/ext/base/dcusome` descriptions [(#12705)](https://github.com/stdlib-js/stdlib/pull/12705) _(by Philipp Burckhardt)_
 -   [`98254d8`](https://github.com/stdlib-js/stdlib/commit/98254d8e6ef22f0e25673c812e3a22936eca1a12) - **feat:** add `blas/ext/base/dcusome` [(#12681)](https://github.com/stdlib-js/stdlib/pull/12681) _(by Muhammad Haris, Athan Reines)_
 
 </details>
@@ -34,10 +35,11 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Muhammad Haris
+-   Philipp Burckhardt
 
 </section>
 

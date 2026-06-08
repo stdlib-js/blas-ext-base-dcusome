@@ -33,7 +33,7 @@ limitations under the License.
 
 [![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
-> Cumulatively test whether at least k elements in a double-precision floating-point strided array are truthy.
+> Cumulatively test whether at least `k` elements in a double-precision floating-point strided array are truthy.
 
 <section class="intro">
 
